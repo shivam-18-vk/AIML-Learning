@@ -64,4 +64,4 @@ while True:
         print("Invalid Input")
         # Day 10 Git practice
         # Day 11 branch practice
-        # Day 12 pull practiceg
+        # Day 12 pull practice
