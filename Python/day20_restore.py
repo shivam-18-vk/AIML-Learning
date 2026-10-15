@@ -1,1 +1,1 @@
-print("Hello Bro")
+print("Learning Git reset")
